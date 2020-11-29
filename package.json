@@ -1,0 +1,13 @@
+{
+  "name": "findadoc",
+  "version": "1.0.0",
+  "description": "A database of doctors in Japan that speak multiple languages",
+  "main": "index.js",
+  "repository": "https://github.com/theyokohamalife/findadoc.git",
+  "author": "LaShawn Toyoda",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
